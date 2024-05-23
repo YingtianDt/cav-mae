@@ -13,6 +13,7 @@ venv
 *.ckpt
 *.json
 *.bin
+*.egg-info
 pretrained_model/*
 !pretrained_model/README.md
 src/dataloader_old.py
